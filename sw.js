@@ -1,10 +1,10 @@
-const CACHE_NAME = 'dypos';
+const CACHE_NAME = 'rspost02a07';
 
 const URLS_TO_CACHE = [
-  '/rspost02a05m01/',
-    '/rspost02a05m01/index.html',
-    '/rspost02a05m01/icons/icon-192x192.png',
-    '/rspost02a05m01/icons/icon-512x512.png',
+  '/rspost02a07/',
+    '/rspost02a07/index.html',
+    '/rspost02a07/icons/icon-192x192.png',
+    '/rspost02a07/icons/icon-512x512.png',
 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css',
   'https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js',
   'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js',
